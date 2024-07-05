@@ -1,13 +1,17 @@
-# Data Scientist
+# PhD Student
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Research Interest: Remote Sensing, GIS, Natural Hazards, Machine Learning, eXplainable Artificial Intelligence
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Ph.D., Geomatics Engineering | Gebze Technical University (_ongoing_)								       		
+- M.S., Geomatics Engineering	| Gebze Technical University (_June 2022_)	 			        		
+- B.S., Geomatics Engineering | Karadeniz Technical University (_June 2019_)
+- Erasmus Exchange, Geodesy | Kaunas University of Applied Sciences (Lithuania) (_July 2017_)
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+## Summer Schools
+**Satellite Earth Observation Applications (UYGU 2024) - Remote Sensing for Disaster Management**
+- IEEE Geoscience and Remote Sensing - Istanbul Technical University, Turkey (_June 2024_)
+**Landslide Risk Assessment and Mitigation (LARAM 2022) School**
+- University of Salerno – Italy, 2022 (_Sep 2022_)
+**IADF School, Computer Vision for Earth Observation**
+- IEEE Geoscience and Remote Sensing - Online (_Oct 2022_)  
