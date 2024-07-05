@@ -4,7 +4,7 @@
 
 ## Education
 - Ph.D., Geomatics Engineering | Gebze Technical University (_ongoing_)								       		
-- M.S., Geomatics Engineering	| Gebze Technical University (_June 2022_)	 			        		
+- M.S., Geomatics Engineering	| Gebze Technical University (_June 2022_)	 			        	 
 - B.S., Geomatics Engineering | Karadeniz Technical University (_June 2019_)
 - Erasmus Exchange, Geodesy | Kaunas University of Applied Sciences (Lithuania) (_July 2017_)
 
